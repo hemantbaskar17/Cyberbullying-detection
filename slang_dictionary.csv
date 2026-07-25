@@ -1,0 +1,432 @@
+slang,expansion,type
+u,you,neutral
+ur,your,neutral
+r,are,neutral
+b4,before,neutral
+brb,be right back,neutral
+btw,by the way,neutral
+gr8,great,neutral
+gtg,got to go,neutral
+imo,in my opinion,neutral
+idk,i do not know,neutral
+idc,i do not care,neutral
+irl,in real life,neutral
+jk,just kidding,neutral
+lmao,laughing,neutral
+lmk,let me know,neutral
+lol,laughing,neutral
+ngl,not going to lie,neutral
+nvm,never mind,neutral
+omg,oh my god,neutral
+rofl,laughing hard,neutral
+smh,shaking my head,neutral
+tbh,to be honest,neutral
+thx,thanks,neutral
+ttyl,talk to you later,neutral
+wtf,what the heck,neutral
+xoxo,hugs and kisses,neutral
+yolo,you only live once,neutral
+gonna,going to,neutral
+wanna,want to,neutral
+gotta,got to,neutral
+kinda,kind of,neutral
+sorta,sort of,neutral
+dunno,do not know,neutral
+lemme,let me,neutral
+gimme,give me,neutral
+pls,please,neutral
+plz,please,neutral
+tho,though,neutral
+thru,through,neutral
+nite,night,neutral
+luv,love,neutral
+2morrow,tomorrow,neutral
+2day,today,neutral
+4ever,forever,neutral
+lit,exciting,neutral
+goat,greatest of all time,neutral
+lowkey,secretly,neutral
+highkey,openly,neutral
+vibe,feeling,neutral
+fam,friend,neutral
+bro,friend,neutral
+sis,friend,neutral
+bestie,best friend,neutral
+squad,friends,neutral
+slay,doing great,neutral
+fire,amazing,neutral
+no cap,seriously,neutral
+periodt,exactly,neutral
+bussin,very good,neutral
+sheesh,wow,neutral
+fr,for real,neutral
+frfr,seriously,neutral
+ong,on god seriously,neutral
+mid,average,neutral
+salty,upset,neutral
+flex,showing off,neutral
+stan,big fan,neutral
+tea,gossip,neutral
+mood,relatable feeling,neutral
+bet,okay agreed,neutral
+cap,lie,neutral
+sus,suspicious,neutral
+ate,did perfectly,neutral
+hits different,feels special,neutral
+understood the assignment,did great,neutral
+fomo,fear of missing out,neutral
+dm,direct message,neutral
+gg,good game,neutral
+glhf,good luck have fun,neutral
+np,no problem,neutral
+ty,thank you,neutral
+yw,you are welcome,neutral
+ofc,of course,neutral
+obvs,obviously,neutral
+defo,definitely,neutral
+legit,legitimate real,neutral
+extra,overdramatic,neutral
+rent free,cant stop thinking,neutral
+ship,support relationship,neutral
+spill,tell gossip,neutral
+big brain,very smart,neutral
+cope,deal with it,neutral
+ratio,more replies than likes,neutral
+w,win,neutral
+l,loss,neutral
+oof,that hurts,neutral
+rn,right now,neutral
+imo,in my opinion,neutral
+tbf,to be fair,neutral
+icymi,in case you missed it,neutral
+fyi,for your information,neutral
+afk,away from keyboard,neutral
+bruh,expression of disbelief,neutral
+chile,oh wow,neutral
+periodt,that is final,neutral
+slaps,sounds amazing,neutral
+lowkey,kind of secretly,neutral
+vibe check,checking mood,neutral
+it is giving,it looks like,neutral
+main character,protagonist energy,neutral
+living rent free,always thinking about,neutral
+no printer,no cap seriously,neutral
+sending me,making me laugh,neutral
+i am dead,that is so funny,neutral
+based,agreeable opinion,neutral
+cringe,embarrassing,neutral
+simp,overly devoted person,neutral
+npc,background character,neutral
+era,current phase of life,neutral
+gatekeep,keep secret,neutral
+understood,got it,neutral
+periodt,final answer,neutral
+snatched,looking great,neutral
+drip,stylish outfit,neutral
+fit,outfit,neutral
+glow up,positive transformation,neutral
+cancel,call out publicly,neutral
+tea,gossip news,neutral
+shade,subtle insult,neutral
+receipts,proof evidence,neutral
+pressed,upset bothered,neutral
+big yikes,very embarrassing,neutral
+yikes,that is bad,neutral
+ded,that is so funny,neutral
+sending,making me laugh hard,neutral
+caught in 4k,caught doing something,neutral
+no thoughts head empty,not thinking,neutral
+ok boomer,dismissing old person,neutral
+pick me,attention seeking,neutral
+ok karen,dismissing entitled person,neutral
+zaddy,attractive older man,neutral
+bae,significant other,neutral
+boo,significant other,neutral
+ghosting,ignoring someone,neutral
+situationship,undefined relationship,neutral
+talking stage,early relationship,neutral
+rizz,charm attractiveness,neutral
+slay,do amazingly,neutral
+serve,look amazing,neutral
+iconic,legendary amazing,neutral
+queen,amazing person,neutral
+king,amazing person,neutral
+iconic,legendary,neutral
+vibe,good feeling,neutral
+lowkey obsessed,secretly love,neutral
+it slaps,it is great,neutral
+hits different,feels special today,neutral
+no cap fr,seriously for real,neutral
+sheesh bro,wow friend,neutral
+aight,alright okay,neutral
+brb gonna,be right back going to,neutral
+lmk asap,let me know as soon as possible,neutral
+omg bestie,oh my god best friend,neutral
+ngl tho,not going to lie though,neutral
+imo tho,in my opinion though,neutral
+kys,kill yourself,negative
+kms,kill myself,negative
+kyd,kill yourself,negative
+stfu,shut up forcefully,negative
+gtfo,get out now,negative
+pos,piece of garbage,negative
+rekt,destroyed humiliated,negative
+pwned,humiliated dominated,negative
+toxic,harmful cruel person,negative
+incel,hateful person,negative
+you suck,hateful insult,negative
+noob,worthless beginner,negative
+n00b,worthless beginner,negative
+cancer,terrible curse,negative
+stoopid,stupid,negative
+fugly,very ugly,negative
+fatso,fat insult,negative
+tubby,fat insult,negative
+lardass,fat insult,negative
+fatty,fat insult,negative
+porky,fat insult,negative
+chubby,fat insult,negative
+whale,fat insult,negative
+crybaby,weak pathetic,negative
+snowflake,overly sensitive,negative
+libtard,political insult,negative
+clown,foolish idiot,negative
+degenerate,morally corrupt,negative
+subhuman,not human insult,negative
+vermin,pest disgusting person,negative
+parasite,useless burden,negative
+dumbass,stupid person,negative
+scumbag,terrible person,negative
+jackass,rude fool,negative
+dipshit,stupid person,negative
+dumbfuck,stupid person,negative
+fuckface,offensive insult,negative
+asshat,rude fool,negative
+dickhead,offensive insult,negative
+shithead,offensive insult,negative
+butthead,offensive insult,negative
+numbnuts,stupid person,negative
+knucklehead,stupid person,negative
+bonehead,stupid person,negative
+blockhead,stupid person,negative
+airhead,empty minded person,negative
+birdbrain,stupid person,negative
+pea brain,stupid person,negative
+dimwit,stupid person,negative
+halfwit,stupid person,negative
+nitwit,stupid person,negative
+twit,stupid person,negative
+twat,offensive insult,negative
+prick,offensive insult,negative
+wanker,offensive insult,negative
+tosser,offensive insult,negative
+bellend,offensive insult,negative
+muppet,stupid person,negative
+pillock,stupid person,negative
+plonker,stupid person,negative
+minger,ugly person insult,negative
+munter,ugly person insult,negative
+butterface,ugly person insult,negative
+uggo,ugly person insult,negative
+busted,ugly insult,negative
+ratchet,trashy person insult,negative
+basic bitch,unoriginal person,negative
+attention whore,attention seeking insult,negative
+drama queen,overdramatic insult,negative
+man whore,sexual insult male,negative
+himbo,stupid attractive male,negative
+bimbo,stupid attractive female,negative
+ditz,stupid person,negative
+airhead,empty minded,negative
+bitch,offensive insult,negative
+bastard,offensive insult,negative
+asshole,offensive insult,negative
+dickhead,offensive insult,negative
+motherfucker,offensive insult,negative
+son of a bitch,offensive insult,negative
+piece of shit,offensive insult,negative
+piece of crap,offensive insult,negative
+go to hell,hostile expression,negative
+hell is waiting for you,hostile expression
+drop dead,hostile expression,negative
+eat shit,hostile expression,negative
+kiss my ass,hostile expression,negative
+shut ur bitch ass up,hostile expression,negative
+fuck off,hostile expression,negative
+screw you,hostile expression,negative
+get lost,hostile expression,negative
+piss off,hostile expression,negative
+nigga,racial slur,negative
+nigger,racial slur,negative
+negro,racial slur,negative
+chink,racial slur,negative
+gook,racial slur,negative
+spic,racial slur,negative
+wetback,racial slur,negative
+kike,racial slur,negative
+raghead,racial slur,negative
+sandnigger,racial slur,negative
+paki,racial slur,negative
+beaner,racial slur,negative
+towelhead,racial slur,negative
+cracker,racial slur,negative
+honky,racial slur,negative
+zipperhead,racial slur,negative
+slope,racial slur,negative
+jap,racial slur,negative
+nip,racial slur,negative
+coolie,racial slur,negative
+coon,racial slur,negative
+darkie,racial slur,negative
+sambo,racial slur,negative
+jungle bunny,racial slur,negative
+porch monkey,racial slur,negative
+spook,racial slur,negative
+wog,racial slur,negative
+golliwog,racial slur,negative
+gypo,racial slur,negative
+gypsy,ethnic slur,negative
+pikey,ethnic slur,negative
+white trash,ethnic insult,negative
+redneck,ethnic insult,negative
+hillbilly,ethnic insult,negative
+redneck,ethnic insult,negative
+muzzie,religious slur,negative
+raghead,religious slur,negative
+camel jockey,religious slur,negative
+sand monkey,racial slur,negative
+curry muncher,racial slur,negative
+dot head,racial slur,negative
+hymie,religious slur,negative
+sheeny,religious slur,negative
+papist,religious slur,negative
+fenian,religious slur,negative
+faggot,homophobic slur,negative
+fag,homophobic slur,negative
+dyke,homophobic slur,negative
+homo,homophobic slur,negative
+queer,homophobic slur,negative
+tranny,transphobic slur,negative
+shemale,transphobic slur,negative
+heshe,transphobic slur,negative
+it,dehumanizing slur,negative
+trap,transphobic slur,negative
+sissy,gender insult,negative
+pansy,gender insult,negative
+pussy,gender insult,negative
+mangina,gender insult,negative
+soyboy,gender insult,negative
+beta male,gender insult,negative
+cuck,gender insult,negative
+whipped,gender insult,negative
+retard,disability slur,negative
+tard,disability slur,negative
+spaz,disability slur,negative
+cripple,disability slur,negative
+gimp,disability slur,negative
+mong,disability slur,negative
+spastic,disability slur,negative
+autist,disability slur,negative
+schizo,mental health slur,negative
+psycho,mental health slur,negative
+nutjob,mental health slur,negative
+lunatic,mental health slur,negative
+maniac,mental health insult,negative
+mental,mental health insult,negative
+loony,mental health insult,negative
+crazy bitch,mental health insult,negative
+slut,sexual insult,negative
+whore,sexual insult,negative
+thot,sexual insult,negative
+hoe,sexual insult,negative
+skank,sexual insult,negative
+tramp,sexual insult,negative
+slag,sexual insult,negative
+trollop,sexual insult,negative
+floozy,sexual insult,negative
+strumpet,sexual insult,negative
+easy,sexual insult,negative
+loose,sexual insult,negative
+sloot,sexual insult,negative
+cum dumpster,sexual insult,negative
+cock sleeve,sexual insult,negative
+sex object,dehumanizing,negative
+ugly bitch,appearance insult,negative
+fat bitch,appearance insult,negative
+stupid bitch,intelligence insult,negative
+dumb bitch,intelligence insult,negative
+basic bitch,personality insult,negative
+crazy bitch,mental health insult,negative
+ugly ass,appearance insult,negative
+fat ass,appearance insult,negative
+dumb ass,intelligence insult,negative
+stupid ass,intelligence insult,negative
+trash ass,insult,negative
+broke ass,financial insult,negative
+ugly cunt,appearance insult,negative
+stupid cunt,intelligence insult,negative
+worthless cunt,value insult,negative
+useless cunt,value insult,negative
+pig,degrading insult,negative
+rat,traitor insult,negative
+cow,body insult,negative
+dog,degrading insult,negative
+donkey,stupid insult,negative
+monkey,racial insult,negative
+ape,racial insult,negative
+gorilla,racial insult,negative
+chimp,racial insult,negative
+snake,traitor insult,negative
+worm,degrading insult,negative
+maggot,degrading insult,negative
+roach,degrading insult,negative
+pest,degrading insult,negative
+scum,degrading insult,negative
+filth,degrading insult,negative
+dirt,degrading insult,negative
+garbage,worthless insult,negative
+trash,worthless insult,negative
+waste,worthless insult,negative
+nobody,insignificant person,negative
+nothing,insignificant person,negative
+worthless,having no value,negative
+useless,having no purpose,negative
+pathetic,deserving contempt,negative
+disgusting,causing revulsion,negative
+revolting,extremely disgusting,negative
+repulsive,extremely disgusting,negative
+vile,extremely bad,negative
+despicable,deserving contempt,negative
+deplorable,very bad,negative
+abhorrent,extremely bad,negative
+loathsome,extremely disgusting,negative
+kill yourself,direct threat,negative
+go die,direct threat,negative
+drop dead,direct threat,negative
+end yourself,direct threat,negative
+off yourself,direct threat,negative
+unalive yourself,direct threat,negative
+rope yourself,direct threat,negative
+jump off,direct threat,negative
+hang yourself,direct threat,negative
+shoot yourself,direct threat,negative
+i hate you,hate expression,negative
+i despise you,hate expression,negative
+i loathe you,hate expression,negative
+you disgust me,hate expression,negative
+you make me sick,hate expression,negative
+you are pathetic,insult expression,negative
+you are worthless,insult expression,negative
+you are nothing,insult expression,negative
+you are garbage,insult expression,negative
+you are trash,insult expression,negative
+nobody likes you,exclusion expression,negative
+nobody wants you,exclusion expression,negative
+nobody cares about you,exclusion expression,negative
+you have no friends,exclusion expression,negative
+you are alone,exclusion expression,negative
+go away,exclusion expression,negative
+get out of here,exclusion expression,negative
+you do not belong,exclusion expression,negative
+you are not welcome,exclusion expression,negative
+wyd,What you doing,neutral

@@ -1,0 +1,10 @@
+{
+  "best_model": "Logistic Regression",
+  "accuracy": 0.9098,
+  "precision": 0.9137,
+  "recall": 0.9098,
+  "f1": 0.9111,
+  "vocab_size": 60000,
+  "train_size": 241186,
+  "test_size": 40890
+}
